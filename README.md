@@ -194,7 +194,12 @@ The app will open in your browser at **http://localhost:8501**.
 
 ## 🖼 Screenshots
 
-> Screenshots will be added after deployment.
+<img width="1512" height="856" alt="image" src="https://github.com/user-attachments/assets/0e887ab6-38d0-47bf-8231-812354998fc2" />
+<img width="1512" height="860" alt="image" src="https://github.com/user-attachments/assets/48cc948c-504b-4ab5-b540-36bd8dc69de9" />
+<img width="1512" height="860" alt="image" src="https://github.com/user-attachments/assets/a4f5fcea-1953-4ae1-972c-7003587f9171" />
+
+
+
 
 ---
 
